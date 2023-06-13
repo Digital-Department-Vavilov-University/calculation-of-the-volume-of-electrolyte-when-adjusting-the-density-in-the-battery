@@ -1,0 +1,4 @@
+C:\Users\Vova\source\repos\accum\accum\x64\Debug\accum.vcxproj.AssemblyReference.cache
+C:\Users\Vova\source\repos\accum\accum\x64\Debug\accum.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vova\source\repos\accum\accum\x64\Debug\accum.MyForm.resources
+C:\Users\Vova\source\repos\accum\accum\x64\Debug\accum.vcxproj.GenerateResource.cache
